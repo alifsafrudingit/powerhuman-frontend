@@ -51,7 +51,7 @@
         </svg>
       </a>
       <div class="mt-8 bg-white overflow-hidden shadow sm:rounded-lg p-6">
-        {{ message }}
+        <h1 class="text-3xl font-bold underline">{{ message }}</h1>
       </div>
     </div>
   </div>
